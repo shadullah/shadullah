@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shadullah</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<p align="left"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474lu4ea9wwic33nic6s7jsinvpq6qne58ucwlau20&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="shadullah" /> </p>
+<p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474lu4ea9wwic33nic6s7jsinvpq6qne58ucwlau20&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="shadullah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadullah" alt="shadullah" /></a> </p>
+
 
 - 🔭 I’m currently working on **DSA**
 
