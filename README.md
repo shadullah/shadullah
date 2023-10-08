@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadullah</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">Mad About Software Developer</h3>
 
 <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474lu4ea9wwic33nic6s7jsinvpq6qne58ucwlau20&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="shadullah" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shadullahsad9@gmail.com**
 
-- ⚡ Fun fact **I love movies**
+- ⚡ Fun fact **I love to watch thriller movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
