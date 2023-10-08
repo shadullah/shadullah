@@ -25,7 +25,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)</p>
+<p align="left"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase Badge"></p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
