@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474lu4ea9wwic33nic6s7jsinvpq6qne58ucwlau20&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="shadullah" /> </p>
 
-
+![](https://komarev.com/ghpvc/?username=shadullah&style=flat-square)
 
 - 🔭 I’m currently working on **DSA**
 
