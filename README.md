@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadullah</h1>
-<h3 align="center">Mad About Software Developer</h3>
+<h3 align="center">A Crackerjack Software Developer</h3>
 
 <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474lu4ea9wwic33nic6s7jsinvpq6qne58ucwlau20&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="shadullah" /> </p>
 
