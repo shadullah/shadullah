@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=shadullah&style=flat-square)
 
+N.B: My previous github account is not working.
+
 - 🔭 I’m currently working on **DSA**
 
 - 🌱 I’m currently learning **Python**
