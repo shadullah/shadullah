@@ -34,4 +34,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadullah&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadullah&" alt="shadullah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadullah&theme=radical" alt="shadullah" /></p>
