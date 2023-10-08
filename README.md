@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shadullah</h1>
 <h3 align="center">A Crackerjack Software Developer</h3>
 
-<p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474lu4ea9wwic33nic6s7jsinvpq6qne58ucwlau20&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="shadullah" /> </p>
-
 ![](https://komarev.com/ghpvc/?username=shadullah&style=flat-square)
 
 - 🔭 I’m currently working on **DSA**
@@ -31,8 +29,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shadullahsakib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shadullahsakib/" height="30" width="40" /></a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadullah&show_icons=true&locale=en&layout=compact" alt="shadullah" /></p>
 
