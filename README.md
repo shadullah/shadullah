@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shadullahsakib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shadullahsakib/" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" style="background-color:#2e3136" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadullah&show_icons=true&locale=en&layout=compact" alt="shadullah" /></p>
+<p><img align="center" style="background-color:#2e3136" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadullah&show_icons=true&locale=en&layout=compact&theme=radical" alt="shadullah" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadullah&show_icons=true&theme=radical)
 
