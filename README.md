@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shadullah</h1>
 <h3 align="center">A Crackerjack Software Developer</h3>
 
-<img align='center' src='https://media3.giphy.com/media/S13KR45aV7l5kJuenU/giphy.gif?cid=ecf05e47jjfa11tt5jazwi4ivhlu766v78giyhophpli6fbo&ep=v1_gifs_search&rid=giphy.gif&ct=g'/>
+<img align="center" src='https://media3.giphy.com/media/S13KR45aV7l5kJuenU/giphy.gif?cid=ecf05e47jjfa11tt5jazwi4ivhlu766v78giyhophpli6fbo&ep=v1_gifs_search&rid=giphy.gif&ct=g'/>
 
 ![](https://komarev.com/ghpvc/?username=shadullah&style=flat-square)
 
