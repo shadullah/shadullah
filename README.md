@@ -7,9 +7,9 @@
 
 N.B: My previous github account is not working.
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Redux, NextJs,AWS**
 
 - 👯 I’m looking to collaborate on **Team Project**
 
