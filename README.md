@@ -13,7 +13,7 @@ N.B: My previous github account is not working.
 
 - 👯 I’m looking to collaborate on **Team Project**
 
-- 👨‍💻 All of my projects are available at [https://shad-portfolio.web.app/](https://shad-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://shadullah.vercel.app/](https://shadullah.vercel.app/)
 
 - 💬 Ask me about **Web development, Software development**
 
