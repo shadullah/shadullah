@@ -7,13 +7,14 @@
 
 **About me**  
 <div style="background-color: #1b1f2f; color: #ffffff; padding: 15px;">
-  - 🔭 I’m currently working on **Web Development**  
-  - 🌱 I’m currently learning **Websockets.io, WebRTC**  
-  - 👯 I’m looking to collaborate on **Team Projects**  
-  - 👨‍💻 All of my projects are available at [https://shadullah.vercel.app/](https://shadullah.vercel.app/)  
-  - 💬 Ask me about **Web development, Software development**  
-  - 📫 How to reach me **shadullahsad9@gmail.com**  
-  - ⚡ Fun fact **I love to watch thriller movies**
+  <br/>
+  - 🔭 I’m currently working on **Web Development**  <br/>
+  - 🌱 I’m currently learning **Websockets.io, WebRTC**  <br/>
+  - 👯 I’m looking to collaborate on **Team Projects**  <br/>
+  - 👨‍💻 All of my projects are available at [https://shadullah.vercel.app/](https://shadullah.vercel.app/)  <br/>
+  - 💬 Ask me about **Web development, Software development**  <br/>
+  - 📫 How to reach me **shadullahsad9@gmail.com**  <br/>
+  - ⚡ Fun fact **I love to watch thriller movies** <br/>
 </div>
 
 <h2 align="center">Skills</h2>
