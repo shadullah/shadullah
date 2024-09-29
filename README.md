@@ -64,14 +64,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shadullahsakib/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shadullahsakib/" height="30" width="40" />LinkedIn
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shadullahsakib/" target="blank">LinkedIn
   </a>
 </p>
 
+<img align="center" style="background-color:#1b1f2f;" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadullah&show_icons=true&locale=en&layout=compact&theme=radical" alt="shadullah" />
+
 <div style="display: flex; justify-content: center; background-color: #1b1f2f;">
-  <img align="center" style="background-color:#1b1f2f;" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadullah&show_icons=true&locale=en&layout=compact&theme=radical" alt="shadullah" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadullah&theme=radical" alt="shadullah" /></p>
   <img align="center" style="background-color:#1b1f2f;" src="https://github-readme-stats.vercel.app/api?username=shadullah&show_icons=true&theme=radical" />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadullah&theme=radical" alt="shadullah" /></p>
