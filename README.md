@@ -5,10 +5,12 @@
 
 ![](https://komarev.com/ghpvc/?username=shadullah&style=flat-square)
 
-- 🔭 I’m currently working on **Web Development**
+<div background="dark">
+  - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Websockets.io,WebRTC**
 - 👯 I’m looking to collaborate on **Team Project**
 - 👨‍💻 All of my projects are available at [https://shadullah.vercel.app/](https://shadullah.vercel.app/)
+</div>
 
 - 💬 Ask me about **Web development, Software development**
 
