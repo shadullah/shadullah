@@ -5,14 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=shadullah&style=flat-square)
 
-N.B: My previous github account is not working.
-
 - 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **Redux, NextJs,AWS**
-
+- 🌱 I’m currently learning **Websockets.io,WebRTC**
 - 👯 I’m looking to collaborate on **Team Project**
-
 - 👨‍💻 All of my projects are available at [https://shadullah.vercel.app/](https://shadullah.vercel.app/)
 
 - 💬 Ask me about **Web development, Software development**
@@ -31,7 +26,7 @@ N.B: My previous github account is not working.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shadullahsakib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shadullahsakib/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shadullahsakib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shadullahsakib/" height="30" width="40" />LinkedIn</a>
 </p>
 
 <p><img align="center" style="background-color:#2e3136" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadullah&show_icons=true&locale=en&layout=compact&theme=radical" alt="shadullah" /></p>
