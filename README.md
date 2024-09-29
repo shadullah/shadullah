@@ -11,7 +11,8 @@
   - 🔭 I’m currently working on **Web Development**  <br/>
   - 🌱 I’m currently learning **Websockets.io, WebRTC**  <br/>
   - 👯 I’m looking to collaborate on **Team Projects**  <br/>
-  - 👨‍💻 All of my projects are available at [https://shadullah.vercel.app/](https://shadullah.vercel.app/)  <br/>
+  - 👨‍💻 All of my projects are available at <a style="text" href="https://shadullah.vercel.app/" target="blank">My Portfolio
+  </a>  <br/>
   - 💬 Ask me about **Web development, Software development**  <br/>
   - 📫 How to reach me **shadullahsad9@gmail.com**  <br/>
   - ⚡ Fun fact **I love to watch thriller movies** <br/>
@@ -64,7 +65,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">
-  <a style="text" href="https://linkedin.com/in/https://www.linkedin.com/in/shadullahsakib/" target="blank">LinkedIn
+  <a style="text" href="https://www.linkedin.com/in/shadullahsakib/" target="blank">LinkedIn
   </a>
 </h3>
 
