@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Mongoose-%2340474E?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 <h4>Hosting:</h4>
@@ -68,10 +69,9 @@
   </a>
 </p>
 
-<p>
+<div style="display: flex; justify-content: center; background-color: #1b1f2f;">
   <img align="center" style="background-color:#1b1f2f;" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadullah&show_icons=true&locale=en&layout=compact&theme=radical" alt="shadullah" />
-</p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadullah&show_icons=true&theme=radical)
+  <img align="center" style="background-color:#1b1f2f;" src="https://github-readme-stats.vercel.app/api?username=shadullah&show_icons=true&theme=radical" />
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadullah&theme=radical" alt="shadullah" /></p>
