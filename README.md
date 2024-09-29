@@ -63,15 +63,14 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shadullahsakib/" target="blank">LinkedIn
+<h3 align="left">
+  <a style="text" href="https://linkedin.com/in/https://www.linkedin.com/in/shadullahsakib/" target="blank">LinkedIn
   </a>
-</p>
-
-<img align="center" style="background-color:#1b1f2f;" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadullah&show_icons=true&locale=en&layout=compact&theme=radical" alt="shadullah" />
+</h3>
 
 <div style="display: flex; justify-content: center; background-color: #1b1f2f;">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadullah&theme=radical" alt="shadullah" /></p>
+  <img align="center" style="background-color:#1b1f2f;" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadullah&show_icons=true&locale=en&layout=compact&theme=radical" alt="shadullah" />
   <img align="center" style="background-color:#1b1f2f;" src="https://github-readme-stats.vercel.app/api?username=shadullah&show_icons=true&theme=radical" />
 </div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadullah&theme=radical" alt="shadullah" /></p>
