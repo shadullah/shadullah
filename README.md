@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shadullah</h1>
 <h3 align="center">A Crackerjack Software Developer</h3>
 
-<p align="center"><img src='https://www.linkedin.com/in/shadullahsakib/overlay/background-image/'/></p>
+<p align="center"><img src="https://i.ibb.co.com/3sL0YWS/Profile-Linked-In-Banner.png" alt="Profile-Linked-In-Banner" border="0"></p>
 
 ![](https://komarev.com/ghpvc/?username=shadullah&style=flat-square)
 
