@@ -63,11 +63,13 @@
   <img src="https://img.shields.io/badge/cloudinary-%2316a5d7.svg?style=for-the-badge&logo=cloudinary&logoColor=white">
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<div style = "display:flex;">
+  <h3 align="left">Connect with me:</h3>
 <h3 align="left">
   <a style="text" href="https://www.linkedin.com/in/shadullahsakib/" target="blank">LinkedIn
   </a>
 </h3>
+</div>
 
 <div style="display: flex; justify-content: center; background-color: #1b1f2f;">
   <img align="center" style="background-color:#1b1f2f;" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadullah&show_icons=true&locale=en&layout=compact&theme=radical" alt="shadullah" />
