@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadullah Sakib</h1>
 <h3 align="center">A Crackerjack Software Developer</h3>
-<h3 align="center">
-  A Crackerjack 
-  <img src="https://path-to-your-gif.gif" alt="Rotating titles: Software Developer, Web Developer, Full Stack Developer">
-</h3>
 
 <p align="center"><img src="https://i.ibb.co/3sL0YWS/Profile-Linked-In-Banner.png" alt="Profile-Linked-In-Banner" border="0"></p>
 
