@@ -65,7 +65,7 @@
 
 <div style = "display:flex;">
   <h3 align="left">Connect with me:</h3>
-<h3 align="left">
+<h3>
   <a style="text" href="https://www.linkedin.com/in/shadullahsakib/" target="blank">LinkedIn
   </a>
 </h3>
